@@ -23,10 +23,7 @@ The dataset contains labeled SMS messages categorized as:
 - Naive Bayes / Logistic Regression / Random Forest (replace with your model)
 
 ## 📈 Results
-The model achieved an accuracy of **__%** on the test dataset.
+The model achieved an accuracy of **_96_%** on the test dataset.
 
-## 🚀 Future Improvements
-- Improve feature engineering
-- Deploy as a web application
-- Optimize model performance
+
 
