@@ -30,6 +30,3 @@ The model achieved an accuracy of **__%** on the test dataset.
 - Deploy as a web application
 - Optimize model performance
 
----
-
-⭐ If you found this project helpful, feel free to give it a star!
